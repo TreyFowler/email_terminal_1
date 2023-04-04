@@ -3,5 +3,10 @@
     "serverName": "Ballast_Primary",
     "iconName": "tech.jpg",
     "terminalID": "11.152.9.6",
-    "randomSeed": true,
+    "defaultUser": {
+        "userId": "Henrich.Aaron"
+        "password": "B4lla$t_Admin"
+        "userName": "AaronH"
+    },
+    "randomSeed": true
 }
