@@ -4,9 +4,5 @@
     "serverName": "Ballast_Primary",
     "iconName": "tech.jpg",
     "terminalID": "11.152.9.6",
-    "defaultUser": {
-        "userId": "Dr. Aaron Heidmarch",
-        "password": "SACO_BALL_PASS_AARON",
-        "userName": "Aaron_Heidmarch"
     }
 }
