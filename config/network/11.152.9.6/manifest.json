@@ -3,4 +3,5 @@
     "serverName": "Ballast_Primary",
     "iconName": "tech.jpg",
     "terminalID": "11.152.9.6",
+    "randomSeed": true,
 }
